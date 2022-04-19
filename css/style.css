@@ -1,0 +1,191 @@
+/* ここから下に記載していく */
+
+.header{
+    display: flex;   
+}
+
+.HEAD{display: flex;
+justify-content: space-between;}
+.LINK{color: black;
+text-decoration-color: black;
+text-decoration-line: none;
+font-size: 24px;
+justify-content: first baseline;
+}
+
+.aaaal img {width: 100%;}
+.aaa {position: relative;}
+.aaap {position: absolute;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.aaap2 {position: absolute;
+        font-size: 30px;
+        color: white;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+}
+
+
+.ABOUT{text-align: center;
+}
+#ABOUT-H1{font-size: 24px;
+        color: #ffd61a;
+    font-weight: bold; 
+margin-top: 30px;
+padding-top: 30px;
+padding-bottom:  20px;
+margin-bottom: 20px;}
+
+.ABOUT-H2{font-size: 18px;
+padding-bottom: 30px;
+margin-bottom: 30px;}
+
+.ABOUT-P{font-size: 16px;}
+.ABOUT-P1{padding-bottom:  20px;
+    margin-bottom: 20px;
+line-height: 24px;
+}
+
+.ABOUT-P2{padding-bottom:  20px;
+    margin-bottom: 20px;}
+ .ABOUT-P3{line-height: 24px;
+    padding-bottom:  40px;
+    margin-bottom: 40px;
+}
+
+
+.COURSE{text-align: center;}
+#COURSE-H1{font-size: 24px;
+font-weight: bold;
+margin-top: 20px;
+border-top: 20px;
+padding-top: 20px;
+padding-bottom:  10px;
+border-bottom: 10px;
+margin-bottom: 10px;}
+
+.COURSESETSUMEI{line-height: 24px;
+    padding-bottom:  20px;
+    border-bottom: 20px;
+    margin-bottom: 20px;}
+
+
+
+.gazou-box{display: flex;}
+
+
+.NOUEN{display: flex;
+justify-content:center;}
+.NOUEN-PIC{background-color: #fafafa;}
+
+.CHISIKI{display: flex;
+justify-content: center;
+flex: 1;}
+.CHISIKI-PIC{background-color: #fafafa;}
+
+.SOTSU{display: flex;
+justify-content: center;
+flex: 1;}
+.SOTSU-PIC{background-color: #fafafa;}
+
+.NOUEN-H3{padding-top: 120px;
+padding-left: 50px;
+padding-bottom: 40px;}
+.NOUEN-P{padding-left: 50px;
+line-height: 22px;}
+.CHISIKI-H3{padding-top: 120px;
+padding-right: 50px;
+padding-bottom: 40px;}
+.CHISIKI-P{padding-right: 50px;
+    line-height: 22px;}
+
+.SOTSU-H3{padding-top: 120px;
+padding-left: 50px;
+padding-bottom: 40px;}
+.SOTSU-P{padding-left: 50px;
+    line-height: 22px;}
+
+.TOPNEW{text-align: center;}
+#NEWS{font-size: 24px;
+    color: #ffd61a;
+font-weight: bold;
+text-align: center;
+padding-top: 60px;
+padding-bottom: 30px;
+}
+.NEWS-H2{font-size: 18px;
+text-align: center;
+padding-bottom: 60px;}
+
+.NEWSPIZZA{display: flex;
+justify-content: center;
+margin: 30px;
+padding: 30px;
+}
+
+.PIZZAPIC{max-width: 300px;}
+
+.date {padding-top: 30px;
+    padding-bottom: 24px;
+    text-align: left;
+ font-size: 18px;}
+.KOSUGE{text-align: left;
+font-size: 16px;
+line-height: 20px;
+}
+
+.TOPACCESS{text-align: center;
+    background-color: #fafafa;
+margin-bottom: 60px;}
+
+
+#ACCESS{font-size: 24px;
+font-weight: bold;
+color: black;
+padding-top: 60px;
+padding-bottom: 30px;
+
+}
+.company{font-size: 18px;
+text-align: center;
+padding-bottom: 60px;}
+
+.map{position: relative;
+width: 100vw;
+padding-top: 60px;
+}
+
+
+span{display: inline-block;
+    width: 7em;
+line-height: 30px;}
+
+.TOPCONTACT{text-align: center;
+padding-top: 60px;
+}
+#CONTACT{font-size: 24px;
+font-weight: bold;
+padding-bottom: 30px;}
+
+.CONTACT-P1{padding-bottom: 30px;}
+.CONTACT-P2{padding-bottom: 70px;}
+
+.CONTACT-1{font-size: 18px;
+    text-align: center;
+    padding-bottom: 60px;}
+
+.contactbody{color: #333;font-family;}
+
+
+
+h1{font-size: 24px;}
+h2{font-size: 18px;}
+h3{font-size: 16px;}
+h3{font-weight: bold;}
+
